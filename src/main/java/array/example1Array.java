@@ -4,8 +4,8 @@ import java.util.Scanner;
 
 public class example1Array {
     public static void main(String[] args) {
-//        Nhap 40 so nguyen tu ban phim.
-//        Tinh tong cua 40 so nguyen do
+//        Nhap 10 so nguyen tu ban phim.
+//        Tinh tong cua 10 so nguyen do
         int arr[] = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
         int arr1[] = new int[10];
         char[] arr2 = {'h', 'e', 'l', 'l', 'o'};

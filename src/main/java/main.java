@@ -1,5 +1,3 @@
-package condition;
-
 import java.util.Scanner;
 
 public class main {
